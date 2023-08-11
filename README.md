@@ -1,6 +1,6 @@
 # isGWAS: ultra-high-throughput, scalable and equitable inference of genetic associations with disease
 
-This is the repository for the **isGWAS** algorithm introduced in the preprint linked [here](https://www.biorxiv.org/content/10.1101/2023.07.21.550074v1).
+This is the repository for the **isGWAS** algorithm introduced in the preprint linked [here](https://www.biorxiv.org/content/10.1101/2023.07.21.550074v3).
 
 **isGWAS** is a optimisation algorithm that ingests sample-level data to rapidly compute accurate estimates of genetic-disease associations. 
 
